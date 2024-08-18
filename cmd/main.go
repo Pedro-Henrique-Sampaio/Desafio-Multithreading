@@ -1,7 +1,7 @@
 package main
 
 import (
-	"EstudoGO/Desafio-Multithreading/cmd/model"
+	model "github.com/Pedro-Henrique-Sampaio/Desafio-Multithreading/cmd/model"
 	"context"
 	"encoding/json"
 	"fmt"
